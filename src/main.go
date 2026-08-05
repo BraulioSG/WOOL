@@ -7,4 +7,5 @@ import (
 
 func main(){
     var args = os.Args
+	fmt.Println("hello World")
 }
